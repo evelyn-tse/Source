@@ -1,0 +1,22 @@
+p {
+    color:blue;
+    font-size: 26px;
+}
+
+.first-section {
+    background-color:darkcyan;
+}
+
+.big-border {
+    border: 5px solid green;
+}
+
+.temp {
+    border: 2x solid purple;
+    padding: 13px;
+}
+
+.new {
+    margin-top: 100px;
+}
+
